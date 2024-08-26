@@ -1,42 +1,42 @@
-# Ecommerce-Sales-Dashboard
+# E-commerce Sales Dashboard
 
-## Project Overview
-This project involves analyzing the Online Sales Dataset - Popular Marketplace Data to provide actionable insights through an interactive dashboard created in Excel. The dataset includes global transactions across various product categories.
+## 📊 Project Overview
 
-## Features
+This project analyzes an **Online Sales Dataset - Popular Marketplace Data** to deliver actionable insights through an interactive Excel dashboard. The dataset includes global transactions across various product categories.
+
+## ✨ Features
+
 The dashboard offers detailed insights into:
+- **Total Units Sold**
+- **Total Revenue**
+- **Core Revenue Drivers**
+- **Top-selling Products**
 
-#### Total units sold
-#### Total revenue
-#### Core revenue drivers
-#### Most units sold in a product
+Additionally, it includes pivot tables for:
+- Units Sold by Product Category
+- Total Revenue by Region
+- Count of Payment Methods
+- Monthly Revenue by Product Category
 
-## It also includes pivot tables for:
+The Excel file contains the following sheets:
+1. **Worksheet**: Raw data from the Online Sales Dataset.
+2. **Pivot Tables**: Various pivot tables used to analyze the data.
+3. **Dashboard**: Interactive dashboard created from the pivot tables.
 
-#### Units sold by product category
-#### Total revenue by region
-#### Count of payment methods
-#### Monthly revenue by product category
+## 🚀 How to Use
 
-### The Excel file contains the following sheets:
+1. **[Download the Online Sales Excel file](https://github.com/pawan-karthik/Ecommerce-Sales-Dashboard/blob/main/Online-Sales-Data-Dashboard.xlsx).**
+2. Open the Excel file to explore the interactive dashboard.
+3. Use the pivot tables to drill down into specific metrics, such as units sold by product category or total revenue by region.
+4. Analyze trends over time by viewing monthly revenue by product category.
 
-#### Worksheet: Contains the raw data from the Online Sales Dataset.
-#### Pivot Table: Contains various pivot tables used to analyze the data.
-#### Dashboards: Contains the interactive dashboard created from the pivot tables.
+## 🛠️ Tools Used
 
+- **Excel Pivot Tables**
 
-## How to Use:
-Download the Online Sales Excel file from (" https://github.com/pawan-karthik/Ecommerce-Sales-Dashboard/blob/main/Online-Sales-Data-Dashboard.xlsx ").
-#### Open the Excel file to explore the interactive dashboard.
-#### Use the pivot tables to drill down into specific metrics, such as units sold by product category or total revenue by region.
-#### Analyze trends over time by viewing monthly revenue by product category.
+## 📬 Contact
 
-### Tools Used
-Excel
-Pivot Tables
+For any questions or feedback, feel free to reach out:
+- **Email**: [pawanbtw@gmail.com](mailto:pawanbtw@gmail.com)
 
-### Contact
-
-#### For any questions or feedback, please contact me at pawanbtw@gmail.com.
-#### Thanks for viewing :)
-
+Thanks for viewing! 😊
